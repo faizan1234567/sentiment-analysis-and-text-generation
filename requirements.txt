@@ -4,3 +4,4 @@ pandas
 transformers
 torch
 tensorflow 
+torchtext
