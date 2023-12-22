@@ -107,6 +107,19 @@ pip install -r requirements.txt
 ```
 Installation done !
 
+## Text Generation
+In the text generation step the william shakespere sonnet dataset has been used. 
+The following steps covered.
+1. Dataset loading
+2. Lowercasing
+3. Inspecting dataset 
+4. Tokenization
+5. Padding to have uniform length sequences
+
+![alt text](https://github.com/faizan1234567/sentiment_analysis_and_text_generation/blob/main/images/poemcloud.png)
+
+Following the preprocessing, the model is define and trained with the following hypermeters:
+
 ## Acknowledgements
 [1]. Amazon Web servies. (1978). What is ... Amazon. https://aws.amazon.com/what-is/sentiment-analysis/ 
 
