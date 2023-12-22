@@ -59,7 +59,11 @@ After preprocessing we have set some hyperparameters for training and test, thos
   <tr>
 </table>
 
+
+
 ![alt text](https://github.com/faizan1234567/sentiment_analysis_and_text_generation/blob/main/images/model_pic_task3.PNG)
+
+Fig 1: LSTM based model for sentiment analysis
 
 ## Acknowledgements
 [1]. Amazon Web servies. (1978). What is ... Amazon. https://aws.amazon.com/what-is/sentiment-analysis/ 
