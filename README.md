@@ -1,5 +1,7 @@
 # Sentiment Analysis & Text Generation
 
+![Alt Text](https://github.com/faizan1234567/sentiment_analysis_and_text_generation/blob/main/images/text_gen.gif)
+
 Sentiment analysis on ```Sarcasm dataset``` and text generation on William Shakespere sonnets have been implemened in this repo.
 Sentiment analysis is the process of analyzing digital text to determine if the emotional tone of the message is positive, negative, or neutral, however, in our case we are dealing with sarcastic and non sarcastic headlines from the news articles. Today, companies have large volumes of text data like emails, customer support chat transcripts, social media comments, and reviews. Sentiment analysis tools can scan this text to automatically determine the author’s attitude towards a topic. Companies use the insights from sentiment analysis to improve customer service and increase brand reputation. ```[1]```
 
