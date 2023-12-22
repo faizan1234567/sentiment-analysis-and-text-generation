@@ -120,6 +120,45 @@ The following steps covered.
 
 Following the preprocessing, the model is define and trained with the following hypermeters:
 
+<table>
+  <tr>
+  <th></th>
+  <th>General</th>
+  <th>Model</th>
+  </tr>
+  <tr>
+  <td>
+
+  </td>
+  <td>
+
+| ```Hyperparameters ```        | ```value```          |    
+| ----------------------        | --------             |
+| embedding dimension           | total_words + 1      |
+| maximum sequence length       | 11                   |
+| truncation type               | pre                  |
+| padding type                  | pre                  |
+| out of vocab token            | oov                  |
+
+
+              
+  </td>
+  <td>
+    
+| ```Hyperparameters ``` | ```value```               |    
+| ---------------------- | -----------------         |
+| activation             | relu                      |
+| maximum epochs         | 150                       |
+| loss                   | categorical cross entropy |
+| optimizer              | Adam                      |
+| Dropout                |   0.2                     |
+              
+   </td>
+  </tr>
+  <tr>
+</table>
+
+
 ## Acknowledgements
 [1]. Amazon Web servies. (1978). What is ... Amazon. https://aws.amazon.com/what-is/sentiment-analysis/ 
 
