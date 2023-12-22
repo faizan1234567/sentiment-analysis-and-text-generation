@@ -74,3 +74,4 @@ Fig 1: LSTM based model for sentiment analysis
 
 [2]. Data camp. (1978). Text generation. Amazon. https://www.datacamp.com/blog/what-is-text-generation 
 
+[3]. C. (2022, January 5). Introduction to Natural Language Processing(NLP) — Part 1. Medium. https://medium.com/@chinmaychetan04/     introduction-to-natural-language-processing-nlp-part-1-2f2dfbc305d6
