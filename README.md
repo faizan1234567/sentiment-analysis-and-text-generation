@@ -63,5 +63,6 @@ After preprocessing we have set some hyperparameters for training and test, thos
 
 ## Acknowledgements
 [1]. Amazon Web servies. (1978). What is ... Amazon. https://aws.amazon.com/what-is/sentiment-analysis/ 
+
 [2]. Data camp. (1978). Text generation. Amazon. https://www.datacamp.com/blog/what-is-text-generation 
 
