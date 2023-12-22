@@ -1,9 +1,9 @@
 # Sentiment Analysis & Text Generation
 
-Sentiment analysis on Sarcasm dataset and text generation on William Shakespere sonnets have been implemened in this repo.
-Sentiment analysis is the process of analyzing digital text to determine if the emotional tone of the message is positive, negative, or neutral. Today, companies have large volumes of text data like emails, customer support chat transcripts, social media comments, and reviews. Sentiment analysis tools can scan this text to automatically determine the author’s attitude towards a topic. Companies use the insights from sentiment analysis to improve customer service and increase brand reputation. [1]
+Sentiment analysis on ```Sarcasm dataset``` and text generation on William Shakespere sonnets have been implemened in this repo.
+Sentiment analysis is the process of analyzing digital text to determine if the emotional tone of the message is positive, negative, or neutral, however, in our case we are dealing with sarcastic and non sarcastic headlines from the news articles. Today, companies have large volumes of text data like emails, customer support chat transcripts, social media comments, and reviews. Sentiment analysis tools can scan this text to automatically determine the author’s attitude towards a topic. Companies use the insights from sentiment analysis to improve customer service and increase brand reputation. ```[1]```
 
-Text generation is a process where an AI system produces written content, imitating human language patterns and styles. The process involves generating coherent and meaningful text that resembles natural human communication. Text generation has gained significant importance in various fields, including natural language processing, content creation, customer service, and coding assistance. [2]
+Text generation is a process where an AI system produces written content, imitating human language patterns and styles. The process involves generating coherent and meaningful text that resembles natural human communication. Text generation has gained significant importance in various fields, including natural language processing, content creation, customer service, and coding assistance. ```[2]```, in this project, I am using ```LSTM``` based model to generate text based on William Shakespere's sonnet dataset.
 
 ## Sentiment Analysis
 The section involves downloading the Sarcasm dataset from the internet, preporcesing, training, inferencing:
