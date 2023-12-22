@@ -25,7 +25,7 @@ After preprocessing we have set some hyperparameters for training and test, thos
 | maximum sequence length| 200      |
 | truncation type        | post     |
 | padding type           | post     |
-| out of vocab token     | <oov>    |
+| out of vocab token     | oov      |
 | Training set size      | Cell 7,2 |
 
 
