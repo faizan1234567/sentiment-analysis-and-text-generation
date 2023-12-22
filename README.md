@@ -57,6 +57,8 @@ After preprocessing we have set some hyperparameters for training and test, thos
    </td>
   </tr>
   <tr>
+</table>
+
 
 
 ## Acknowledgements
