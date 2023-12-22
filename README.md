@@ -89,6 +89,24 @@ After preprocessing we have set some hyperparameters for training and test, thos
 
 Fig 1: LSTM based model for sentiment analysis
 
+## Installation
+
+```bash
+ git clone https://github.com/faizan1234567/sentiment_analysis_and_text_generation
+ cd sentiment_analysis_and_text_generation
+```
+Create and activate Anaconda Environment
+```bash
+conda create -n nlp python=3.9.0
+conda activate nlp
+```
+Now install all the required dependencies
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+Installation done !
+
 ## Acknowledgements
 [1]. Amazon Web servies. (1978). What is ... Amazon. https://aws.amazon.com/what-is/sentiment-analysis/ 
 
