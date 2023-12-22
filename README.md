@@ -26,7 +26,7 @@ After preprocessing we have set some hyperparameters for training and test, thos
 | truncation type        | post     |
 | padding type           | post     |
 | out of vocab token     | oov      |
-| Training set size      | Cell 7,2 |
+| Training set size      | 80%      |
 
 
 
