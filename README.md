@@ -18,15 +18,46 @@ The section involves downloading the Sarcasm dataset from the internet, preporce
 
 After preprocessing we have set some hyperparameters for training and test, those parameters will influcnece the performance metrics.
 
-| Hyperparameters        | Value    |
-| ---------------------- | -------- |
-| Vocabulary size        | 5000     |
-| embedding dimension    | 100      |
-| maximum sequence length| 200      |
-| truncation type        | post     |
-| padding type           | post     |
-| out of vocab token     | oov      |
-| Training set size      | 80%      |
+<table>
+  <tr>
+  <th></th>
+  <th>General</th>
+  <th>Model</th>
+  </tr>
+  <tr>
+  <td>
+
+  </td>
+  <td>
+
+| ```Hyperparameters ```        | ```value```  |    
+| ----------------------        | -------- |
+| Vocabulary size               | 5000     |
+| embedding dimension           | 100      |
+| maximum sequence length       | 200      |
+| truncation type               | post     |
+| padding type                  | post     |
+| out of vocab token            | oov      |
+| Training set size             | 80%      |
+
+              
+  </td>
+  <td>
+    
+| ```Hyperparameters ``` | ```value```          |    
+| ---------------------- | -----------------    |
+| activation             | relu                 |
+| learning rate          | adaptive             |
+| maximum epochs         | 30                   |
+| loss                   | binary cross entropy |
+| optimizer              | Adam                 |
+| metric                 | Accuracy             |
+| Dropout                |   0.3                |
+              
+   </td>
+  </tr>
+  <tr>
+
 
 
 
