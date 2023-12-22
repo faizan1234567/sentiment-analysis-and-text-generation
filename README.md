@@ -9,6 +9,7 @@ Sentiment analysis is the process of analyzing digital text to determine if the 
 
 Text generation is a process where an AI system produces written content, imitating human language patterns and styles. The process involves generating coherent and meaningful text that resembles natural human communication. Text generation has gained significant importance in various fields, including natural language processing, content creation, customer service, and coding assistance. ```[2]```, in this project, I am using ```LSTM``` based model to generate text based on William Shakespere's sonnet dataset.
 
+```
 sentiment_analysis_and_text_generation 
 ├── __init__.py  
 ├── data
@@ -24,6 +25,7 @@ sentiment_analysis_and_text_generation
 └── weights
     ├── meta.tsv  
     └── vecs.tsv
+```
 
 Overall structure of the repository. 
 
