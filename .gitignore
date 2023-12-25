@@ -1,6 +1,3 @@
 .vscode/
-*.pt
-*.pth
 *.pdf
 *.csv
-*.json
