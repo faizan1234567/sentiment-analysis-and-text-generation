@@ -6,3 +6,4 @@ torch
 tensorflow 
 torchtext
 scipy
+# opencv-python
