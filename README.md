@@ -85,7 +85,7 @@ After preprocessing we have set some hyperparameters for training and test, thos
 
 
 
-![alt text](https://github.com/faizan1234567/sentiment_analysis_and_text_generation/blob/main/images/model_pic_task3.PNG)
+![sentiment analysis model](https://github.com/faizan1234567/sentiment_analysis_and_text_generation/blob/main/images/model_pic_task3.PNG)
 
 Fig 1: LSTM based model for sentiment analysis
 
@@ -108,6 +108,9 @@ pip install -r requirements.txt
 Installation done !
 
 ## Text Generation
+
+![text generation model](https://github.com/faizan1234567/sentiment-analysis-and-text-generation/blob/main/images/text_gen_lstm_model.PNG)
+
 In the text generation step the william shakespere sonnet dataset has been used. 
 The following steps covered.
 1. Dataset loading
