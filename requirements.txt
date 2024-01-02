@@ -6,5 +6,4 @@ torch
 tensorflow 
 torchtext
 scipy
-# more packages to be added here.
 
